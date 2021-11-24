@@ -1,0 +1,18 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+h1 {
+  color: lightpink;
+  text-align: center;
+}
+h2 {
+  text-align: right;
+}
+img.sinistra {
+  width: 200px;
+  border-radius: 25px;
+  float: left;
+}
+em {
+  color: red;
+}
